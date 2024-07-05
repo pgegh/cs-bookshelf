@@ -24,6 +24,8 @@ Best-selling book on software testing in the German-speaking world.
 - Tilo Linz
 
 ### My Comments
+- Explains *black-box* testing techniques
+  - *Equivalence classes* in testing
 
 
 <a name="cleancode2009" />
