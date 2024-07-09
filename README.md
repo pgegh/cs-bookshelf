@@ -24,8 +24,14 @@ Best-selling book on software testing in the German-speaking world.
 - Tilo Linz
 
 ### My Comments
-- Explains *black-box* testing techniques
-  - *Equivalence classes* in testing
+The book Explains:
+- _Dynamic_ Testing
+  - _Black-box_ testing techniques
+    - _Equivalence classes_ in testing
+    - _Boundary_ (edge) cases
+  - _White-box_ testing techniques
+    - _Statement_ coverage (C0)
+    - _Decision_ coverage (C1)
 
 
 <a name="cleancode2009" />
