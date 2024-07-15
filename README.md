@@ -30,6 +30,8 @@ The book Explains:
     - _Equivalence classes_ in testing
     - _Boundary_ (edge) cases
     - _State Transitions_
+    - _Decision Table_ testing
+      - _Cause-Effect_ graphs
   - _White-box_ testing techniques
     - _Statement_ coverage (C0)
     - _Decision_ coverage (C1)
