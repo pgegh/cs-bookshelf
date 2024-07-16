@@ -1,4 +1,4 @@
-# My Computer Science books
+# My bookshelf for Computer Science
 A List of computer science books that I read. The list is chronologically orderd based on when I started reading the book.
 
 ## The list of books
@@ -32,6 +32,8 @@ The book Explains:
     - _State Transitions_
     - _Decision Table_ testing
       - _Cause-Effect_ graphs
+    - _Pair-wise_ testing
+    - _Use case_ testing
   - _White-box_ testing techniques
     - _Statement_ coverage (C0)
     - _Decision_ coverage (C1)
