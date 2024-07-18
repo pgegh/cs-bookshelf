@@ -38,7 +38,7 @@ The book Explains:
   - _White-box_ testing techniques
     - _Statement_ coverage (C0)
     - _Decision_ coverage (C1)
-
+      - _Modified Condition Decision_ coverage
 
 <a name="cleancode2009" />
 
