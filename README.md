@@ -39,6 +39,7 @@ The book Explains:
     - _Statement_ coverage (C0)
     - _Decision_ coverage (C1)
       - _Modified Condition Decision_ coverage
+  - Recomendations for test method choice
 
 <a name="cleancode2009" />
 
