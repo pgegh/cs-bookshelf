@@ -40,6 +40,9 @@ The book Explains:
     - _Decision_ coverage (C1)
       - _Modified Condition Decision_ coverage
   - Recomendations for test method choice
+- Test Management
+  - Independent testing models
+  - Roles, tasks, and qualifications
 
 <a name="cleancode2009" />
 
