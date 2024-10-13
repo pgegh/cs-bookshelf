@@ -5,7 +5,7 @@ A List of computer science books that I read. The list is chronologically orderd
 
 | Title                                                                                                              | Edition | Published | Status      | Completed |
 | :------------------------------------------------------------------------------------------------------------------- | :-----: | :-------: | :---------: | :-------: |
-| [**Software Testing Foundations**<br>A Study Guide for the Certified Tester Exam](./Software Testing Foundations.md) | 5       | 2021      | In progress |   TBD     |
+| [**Software Testing Foundations**<br>A Study Guide for the Certified Tester Exam](./Software_Testing_Foundations.md) | 5       | 2021      | In progress |   TBD     |
 | [**Clean Code**<br>A Handbook of Agile Software Craftsmanship](#cleancode2009)                                       | 1       | 2009      | In progress |   TBD     |
 
 ## Book details
