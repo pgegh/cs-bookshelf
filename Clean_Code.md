@@ -3,3 +3,9 @@ The book suggests some best practices for quality and craftsmanship in the area 
 
 ## Tags
 - Best practice
+
+#### Authors
+
+- Robert C. Martin
+
+#### My Comments
