@@ -12,6 +12,22 @@ Best-selling book on software testing in the German-speaking world.
 
 ## My Comments
 The book Explains:
+- Fundamentals
+  - Principals, concepts and motivations
+  - Testing process
+  - The psychological aspct
+- Testing in _SDLC_
+  - Testing in sequential development
+  - Testing in incremental development
+  - Context dependency
+  - Test levels
+  - Test types
+- _Static_ Testing
+  - What to analyze
+  - Techniques
+  - Review process
+  - Review types
+  - Benifits and limitations
 - _Dynamic_ Testing
   - _Black-box_ testing techniques
     - _Equivalence classes_ in testing
@@ -27,5 +43,10 @@ The book Explains:
       - _Modified Condition Decision_ coverage
   - Recomendations for test method choice
 - Test Management
-  - Independent testing models
-  - Roles, tasks, and qualifications
+  - Organization and roles
+  - Testing strategies
+  - Planing, monitoring and controling
+  - Defect management
+  - Configuration management
+  - Standards and norms
+- Test tools
